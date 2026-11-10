@@ -1,0 +1,16 @@
+
+*.o
+*.out
+*.save
+*~
+
+fork_basic
+fork_messages
+fork_exec
+fork_wait
+pthread_basic
+pthread_arguments
+pthread_results
+pthread_ids
+pthread_sum100
+trig_pool
